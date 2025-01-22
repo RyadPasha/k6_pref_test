@@ -1,0 +1,15 @@
+{
+  "slowRequests": {
+    "total": 0,
+    "details": [],
+    "byEndpoint": {}
+  },
+  "metrics": {
+    "totalRequests": 4,
+    "avgResponseTime": 400.69075,
+    "p95ResponseTime": 411.18019999999996,
+    "failureRate": 0,
+    "validationFailures": 0
+  },
+  "timestamp": "2025-01-22T08:13:29.792Z"
+}
